@@ -9,6 +9,10 @@ A collection of learning resources on the topics of Human-Computer Interaction (
 ## Job & Career Related
 * [Portfolios for UX Researchers: Top 10 Recommendations](https://www.nngroup.com/articles/ux-researcher-portfolio/)
 
+## Opinion & Debate
+* [The myth of human-centered design](https://www.fastcompany.com/90208681/the-myth-of-human-centered-design)
+
+
 
 ## Podcasts
 
@@ -18,11 +22,6 @@ A collection of learning resources on the topics of Human-Computer Interaction (
 
 ## Presentations
 * [Why Social Computing Is So Hard: The Social-Technical Gap Between Technically Working and Socially Workable](https://www.microsoft.com/en-us/research/video/why-social-computing-is-so-hard-the-social-technical-gap-between-technically-working-and-socially-workable/)
-
-
-## Opinion & Debate
-* [The myth of human-centered design](https://www.fastcompany.com/90208681/the-myth-of-human-centered-design)
-
 
 
 ## Publication
