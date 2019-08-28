@@ -1,5 +1,5 @@
-# Human-Computer Interaction (HCI) and User Experience (UX) Learning Resources
-A collection of learning resources on the topics of Human-Computer Interaction and User Experience
+# HCI and UX Learning Resources
+A collection of learning resources on the topics of Human-Computer Interaction (HCI) and User Experience (UX).
 
 
 ## Books/Article Collections
