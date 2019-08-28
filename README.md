@@ -8,7 +8,7 @@ A collection of learning resources on the topics of Human-Computer Interaction (
 
 
 
-## Podcast
+## Podcasts
 
 * [Method Podcast from Google Design](https://castbox.fm/channel/Method-Podcast-from-Google-Design-id977288)
 * [Design Notes Podcast from Google Design](https://castbox.fm/channel/Design-Notes-Podcast-from-Google-Design-id970862)
