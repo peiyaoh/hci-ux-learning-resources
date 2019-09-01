@@ -24,7 +24,7 @@ A collection of learning resources on the topics of Human-Computer Interaction (
 * Why Social Computing Is So Hard: The Social-Technical Gap Between Technically Working and Socially Workable by Mark Ackerman: [microsoft](https://www.microsoft.com/en-us/research/video/why-social-computing-is-so-hard-the-social-technical-gap-between-technically-working-and-socially-workable/).
 
 
-## Publication
+## Publication Guides
 * What makes a good CHI design paper?: [acm](https://interactions.acm.org/archive/view/may-june-2017/what-makes-a-good-chi-design-paper).
 
 
