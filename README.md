@@ -28,6 +28,7 @@ A collection of learning resources on the topics of Human-Computer Interaction (
 ## Presentations
 * Why Social Computing Is So Hard: The Social-Technical Gap Between Technically Working and Socially Workable by Mark Ackerman: [Microsoft](https://www.microsoft.com/en-us/research/video/why-social-computing-is-so-hard-the-social-technical-gap-between-technically-working-and-socially-workable/).
 * Design for people, not awards by Timothy Prestero: [TED](https://www.youtube.com/watch?v=WpldYJ3sSIo).
+* The Three Paradigms of HCI by Luka Schulz: [Vimeo](https://vimeo.com/199261220).
 
 
 ## Publication Guides
