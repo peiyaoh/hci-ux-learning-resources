@@ -7,6 +7,7 @@ A collection of learning resources on the topics of Human-Computer Interaction (
 * Articles from the Nielsen Norman Group: [link](https://www.nngroup.com/articles/).
 
 ## Job & Career Related
+* The Ultimate Guide to Understanding UX Roles and Which One You Should Go For: [InteractionDesign.org](https://www.interaction-design.org/literature/article/the-ultimate-guide-to-understanding-ux-roles-and-which-one-you-should-go-for)
 * Portfolios for UX Researchers: Top 10 Recommendations: [NNGroup](https://www.nngroup.com/articles/ux-researcher-portfolio/).
 * How to wow me with your UX research portfolio by David Travis: [Medium](https://medium.com/@userfocus/how-to-wow-me-with-your-ux-research-portfolio-2867001aec18).
 * Storytelling for a UX research portfolio by Nikki Anderson: [uxdesign.cc](https://uxdesign.cc/storytelling-for-a-ux-research-portfolio-35c9da4a8df1).
