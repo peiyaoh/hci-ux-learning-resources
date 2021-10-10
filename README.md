@@ -12,6 +12,8 @@ A collection of learning resources on the topics of Human-Computer Interaction (
 * How to wow me with your UX research portfolio by David Travis: [Medium](https://medium.com/@userfocus/how-to-wow-me-with-your-ux-research-portfolio-2867001aec18).
 * Storytelling for a UX research portfolio by Nikki Anderson: [uxdesign.cc](https://uxdesign.cc/storytelling-for-a-ux-research-portfolio-35c9da4a8df1).
 * The Ultimate Guide to Build an Awesome UX Research Portfolio – with Great Examples by Tímea Falmann: [uxfol.io](https://blog.uxfol.io/ux-research-portfolio/).
+* UX Research Portfolios: Format + Examples by Paul Derby: [Linkedin](https://www.linkedin.com/pulse/ux-research-portfolios-format-examples-paul-derby/).
+* Early-career UXers: Your most impressive work is missing from your portfolio by Jared M. Spool: [uxdesign.cc](https://uxdesign.cc/early-career-uxers-your-most-impressive-work-is-missing-from-your-portfolio-d96fd742e1cb).
 
 
 
