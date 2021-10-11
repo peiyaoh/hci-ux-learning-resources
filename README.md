@@ -15,6 +15,8 @@ A collection of learning resources on the topics of Human-Computer Interaction (
 * UX Research Portfolios: Format + Examples by Paul Derby: [Linkedin](https://www.linkedin.com/pulse/ux-research-portfolios-format-examples-paul-derby/).
 * Early-career UXers: Your most impressive work is missing from your portfolio by Jared M. Spool: [uxdesign.cc](https://uxdesign.cc/early-career-uxers-your-most-impressive-work-is-missing-from-your-portfolio-d96fd742e1cb).
 
+## Value of UX
+* Three Levels of UX Research Impact by Tao Dong: [Medium](https://medium.com/@taodong/three-levels-of-ux-research-impact-174768b7f4ef).
 
 
 ## Opinion & Debate
