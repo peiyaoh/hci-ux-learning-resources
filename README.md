@@ -20,7 +20,7 @@ A collection of learning resources on the topics of Human-Computer Interaction (
 * Customer Journey Mapping 101 [link](https://www.youtube.com/watch?v=2W13ext26kQ)
 * Scenario Mapping for Design Exploration [link](https://www.youtube.com/watch?v=dmlFRCZI9gQ)
 * When to Use Which User-Experience Research Methods [link](https://www.nngroup.com/articles/which-ux-research-methods/)
-* # UX Research Cheat Sheet [link](https://www.nngroup.com/articles/ux-research-cheat-sheet/)
+* UX Research Cheat Sheet [link](https://www.nngroup.com/articles/ux-research-cheat-sheet/)
 
 ## Job & Career Related
 * The Ultimate Guide to Understanding UX Roles and Which One You Should Go For: [InteractionDesign.org](https://www.interaction-design.org/literature/article/the-ultimate-guide-to-understanding-ux-roles-and-which-one-you-should-go-for)
