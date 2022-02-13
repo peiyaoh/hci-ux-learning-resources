@@ -11,8 +11,7 @@ A collection of learning resources on the topics of Human-Computer Interaction (
 ## Books/Article Collections
 * The Encyclopedia of Human-Computer Interaction: [link](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed).
 * Articles from the Nielsen Norman Group: [link](https://www.nngroup.com/articles/).
-* # Universal Methods of Design: 100 Ways to Research Complex Problems, Develop Innovative Ideas, and Design Effective Solutions [link](https://books.google.com/books?id=uZ8uzWAcdxEC&newbks=1&newbks_redir=0&lpg=PP1&dq=Universal%20Methods%20of%20Design%3A%20100%20Ways%20to%20Research%20Complex%20Problems%2C%20Develop%20Innovative%20Ideas%2C%20and%20Design%20Effective%20Solutions&pg=PP1#v=onepage&q=Universal%20Methods%20of%20Design:%20100%20Ways%20to%20Research%20Complex%20Problems,%20Develop%20Innovative%20Ideas,%20and%20Design%20Effective%20Solutions&f=false)
-* 
+* Universal Methods of Design: 100 Ways to Research Complex Problems, Develop Innovative Ideas, and Design Effective Solutions [link](https://books.google.com/books?id=uZ8uzWAcdxEC&newbks=1&newbks_redir=0&lpg=PP1&dq=Universal%20Methods%20of%20Design%3A%20100%20Ways%20to%20Research%20Complex%20Problems%2C%20Develop%20Innovative%20Ideas%2C%20and%20Design%20Effective%20Solutions&pg=PP1#v=onepage&q=Universal%20Methods%20of%20Design:%20100%20Ways%20to%20Research%20Complex%20Problems,%20Develop%20Innovative%20Ideas,%20and%20Design%20Effective%20Solutions&f=false)
 
 
 ## Methods
