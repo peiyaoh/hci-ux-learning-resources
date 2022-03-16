@@ -30,6 +30,7 @@ A collection of learning resources on the topics of Human-Computer Interaction (
 * The Ultimate Guide to Build an Awesome UX Research Portfolio – with Great Examples by Tímea Falmann ([uxfol.io](https://blog.uxfol.io/ux-research-portfolio/))
 * UX Research Portfolios: Format + Examples by Paul Derby ([Linkedin](https://www.linkedin.com/pulse/ux-research-portfolios-format-examples-paul-derby/))
 * Early-career UXers: Your most impressive work is missing from your portfolio by Jared M. Spool ([uxdesign.cc](https://uxdesign.cc/early-career-uxers-your-most-impressive-work-is-missing-from-your-portfolio-d96fd742e1cb))
+* From Academia to UX: Understanding User Research Lingo by Janelle Ward ([dscout.com](https://dscout.com/people-nerds/user-research-lingo))
 
 ## Value of UX
 * Three Levels of UX Research Impact by Tao Dong ([Medium](https://medium.com/@taodong/three-levels-of-ux-research-impact-174768b7f4ef))
