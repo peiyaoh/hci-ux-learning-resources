@@ -32,6 +32,9 @@ A collection of learning resources on the topics of Human-Computer Interaction (
 * Early-career UXers: Your most impressive work is missing from your portfolio by Jared M. Spool ([uxdesign.cc](https://uxdesign.cc/early-career-uxers-your-most-impressive-work-is-missing-from-your-portfolio-d96fd742e1cb))
 * From Academia to UX: Understanding User Research Lingo by Janelle Ward ([dscout.com](https://dscout.com/people-nerds/user-research-lingo))
 
+## Salary
+* Global UX Compensation Transparency Project ([Google Sheet](https://docs.google.com/spreadsheets/d/1xaz_n6Iys5H2tALBySI_7nXVBygN3d9moGLriOhj61I/edit?fbclid=IwAR1JiPojf6Qc5_lxCl6KgMyY5R1UFgbJ9j02eHKr9DxiWdDz6UiaAQiH86A#gid=957614055))
+
 ## Value of UX
 * Three Levels of UX Research Impact by Tao Dong ([Medium](https://medium.com/@taodong/three-levels-of-ux-research-impact-174768b7f4ef))
 
